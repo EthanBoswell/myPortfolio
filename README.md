@@ -23,9 +23,9 @@
 
 | Project | Description | Tech Stack |
 |----------|--------------|-------------|
-| Algorithm Visualizer | Visualizes sorting and pathfinding algorithms |Python|
-| Stock Predictor | Predicts short-term stock trends |Python|
-| Secure File Share CLI | Encrypts and shares files via CLI |Python|
+| Math Challenges | A fun arcade-style game that includes a number guessing challenge, a dice battle, and a bonus math round based on your score. |Python|
+| Smart Survey |  A program that collects user ratings from 1–5 and displays the total, average, and all submitted ratings. |Python|
+| Cookies | A program that collects user information and calculates the exact amount of sugar, butter, and flour needed to bake a chosen number of cookies.|Python|
 
 
 
